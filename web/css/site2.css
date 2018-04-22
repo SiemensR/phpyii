@@ -1069,4 +1069,6 @@
 .icon-warning:before { content: '\e947'; } /* 'юеЗ' */
 .icon-water:before { content: '\e948'; } /* 'юеИ' */
 
-
+.block {
+  display: root!important;
+}
